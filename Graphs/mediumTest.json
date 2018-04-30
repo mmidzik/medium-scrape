@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {"followers": 11, "leaders": 48, "id": "https://medium.com/@mmidzik"},
+    {"followers": 0, "leaders": 2, "id": "https://medium.com/@ianwang_22492"},
+    {"followers": 0, "leaders": 2, "id": "https://medium.com/@amycurneen"},
+    {"followers": 1, "leaders": 2, "id": "https://medium.com/@yichiang00"},
+    {"followers": 2, "leaders": 4, "id": "https://medium.com/@chad.scherrer"},
+    {"followers": 30, "leaders": 14, "id": "https://medium.com/@ultimatist"},
+    {"followers": 3, "leaders": 9, "id": "https://medium.com/@dan.allison"},
+    {"followers": 0, "leaders": 10, "id": "https://medium.com/@QMlab"},
+    {"followers": 787, "leaders": 52, "id": "https://medium.com/@andrerpena"},
+    {"followers": 2, "leaders": 2, "id": "https://medium.com/@cyrusrustomji"},
+    {"followers": 2, "leaders": 3, "id": "https://medium.com/@ptrmin91"},
+    {"followers": 3, "leaders": 2, "id": "https://medium.com/@djmorcode"},
+    {"followers": 189, "leaders": 128, "id": "https://medium.com/@johaevans"},
+    {"followers": 981, "leaders": 829, "id": "https://medium.com/@agentdana"},
+    {"followers": 91, "leaders": 11, "id": "https://medium.com/@Sinergise"},
+    {"followers": 21000, "leaders": 679, "id": "https://medium.com/@planetlabs"}
+  ],
+  "links": [
+    {"source": "https://medium.com/@ianwang_22492", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@amycurneen", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@yichiang00", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@chad.scherrer", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@ultimatist", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@dan.allison", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@QMlab", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@andrerpena", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@cyrusrustomji", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@ptrmin91", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@djmorcode", "target": "https://medium.com/@mmidzik"},
+    {"source": "https://medium.com/@mmidzik", "target": "https://medium.com/@agentdana"},
+    {"source": "https://medium.com/@mmidzik", "target": "https://medium.com/@Sinergise"},
+    {"source": "https://medium.com/@mmidzik", "target": "https://medium.com/@planetlabs"},
+    {"source": "https://medium.com/@mmidzik", "target": "https://medium.com/@chad.scherrer"},
+    {"source": "https://medium.com/@chad.scherrer", "target": "https://medium.com/@johaevans"},
+    {"source": "https://medium.com/@chad.scherrer", "target": "https://medium.com/@planetlabs"}
+  ]
+}
